@@ -1,0 +1,8 @@
+{
+    "baud_rate"     : "115200",
+    "network_name"  : "FRIPI",
+    "access_token"  : "Vypalen52",
+    "time_server_1" : "pool.ntp.org",
+    "time_server_2" : "time.nist.gov",
+    "time_zone"     : "CET-1CEST,M3.5.0,M10.5.0/3"
+}
